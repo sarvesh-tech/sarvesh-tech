@@ -1,7 +1,5 @@
 ## 👋 Hey there, I'm [Sarvesh](https://sarveshk.vercel.app/)!
 
----
-
 ### 🚀 About Me
 
 - ⚙️ **Gen-AI Advisor Intern** @ [Scale AI](https://scale.com)  
