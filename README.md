@@ -25,5 +25,3 @@
 📧 **Email:** [sarvesh.tech04@gmail.com](mailto:sarvesh.tech04@gmail.com)  
 🌐 **Website:** [sarveshk.vercel.app](https://sarveshk.vercel.app/)  
 💼 **LinkedIn:** [linkedin.com/in/sarvesh](https://www.linkedin.com/in/sarvesh)  
-
----
