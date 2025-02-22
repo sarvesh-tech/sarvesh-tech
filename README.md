@@ -1,8 +1,5 @@
 ## 👋 Hey there, I'm [Sarvesh](https://sarveshk.vercel.app/)!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%8C%90-blue?style=flat-square&logo=vercel)](https://sarveshk.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-%F0%9F%93%A7-red?style=flat-square)](mailto:sarvesh.tech04@gmail.com)
-
 ---
 
 ### 🚀 About Me
