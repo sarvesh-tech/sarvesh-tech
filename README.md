@@ -2,8 +2,7 @@
 
 ### 🚀 About Me
 
-- ⚙️ **Gen-AI Advisor Intern** @ [Scale AI](https://scale.com)  
-- 💻 **Ex-SWE Intern** @ [Lockheed Martin](https://www.lockheedmartin.com/) & [PipeIQ](https://pipeiq.ai/)  
+- 💻 **Previously**  Gen-AI Engineering Intern @ [Scale AI](https://scale.com), [SWE Intern @ Lockheed Martin (x2)](https://www.lockheedmartin.com/), & SWE Intern @ [PipeIQ](https://pipeiq.ai/)  
 - 🎨 Passionate about building **UI/UX-focused interfaces** & **Product Management**  
 - 🌱 Currently exploring **Mobile App Development**  
 
